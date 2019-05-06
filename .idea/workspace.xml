@@ -3,7 +3,48 @@
   <component name="ChangeListManager">
     <list default="true" id="cfd8a63a-00a3-4691-8b0f-bb962e29683f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/scripts/test_login.py" afterPath="$PROJECT_DIR$/scripts/test_login.py" />
+      <change beforePath="$PROJECT_DIR$/report/0a24fb82-09cb-4d3e-992d-364f926b0ff5-testsuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/categories.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/categories.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/packages.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/suites.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/suites.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/2a6be9942f90799e.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/5fec0d124493d701.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/d5a96eedf9b683e.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/timeline.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/export/influxDbData.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/export/mail.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/export/prometheusData.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/history/categories-trend.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/history/duration-trend.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/history/history-trend.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/history/history.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/history/retry-trend.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/behaviors/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/packages/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/screen-diff/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/plugins/screen-diff/styles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/styles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/behaviors.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories-trend.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration-trend.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/environment.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/executors.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/history-trend.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/launch.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/retry-trend.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/severity.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/status-chart.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/suites.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/summary.json" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +58,7 @@
       <file leaf-file-name="test_login.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/test_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
+            <state relative-caret-position="185">
               <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding />
             </state>
@@ -27,8 +68,8 @@
       <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pytest.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="222">
+              <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -155,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557128109335</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="错误">
+      <created>1557128157689</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557128157689</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -193,21 +241,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第三个是错误的" />
     <MESSAGE value="xxx" />
-    <option name="LAST_COMMIT_MESSAGE" value="xxx" />
+    <MESSAGE value="错误" />
+    <option name="LAST_COMMIT_MESSAGE" value="错误" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pytest.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -216,9 +257,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/report/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
+        <state relative-caret-position="185">
           <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding />
         </state>

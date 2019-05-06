@@ -3,37 +3,37 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "E:\\Python\\location\\jenkins_project_10\\scripts.test_login.TestLogin.test_login1",
-    "uid" : "5fec0d124493d701",
+    "uid" : "2ea7b73df1399ea3",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1557113284704,
-      "stop" : 1557113284710,
-      "duration" : 6
+      "start" : 1557129074516,
+      "stop" : 1557129074516,
+      "duration" : 0
     },
     "flaky" : false,
     "parameters" : [ ]
   }, {
     "name" : "E:\\Python\\location\\jenkins_project_10\\scripts.test_login.TestLogin.test_login2",
-    "uid" : "d5a96eedf9b683e",
+    "uid" : "3dad4c0ebb79868a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1557113284712,
-      "stop" : 1557113284713,
-      "duration" : 1
+      "start" : 1557129074516,
+      "stop" : 1557129074516,
+      "duration" : 0
     },
     "flaky" : false,
     "parameters" : [ ]
   }, {
     "name" : "E:\\Python\\location\\jenkins_project_10\\scripts.test_login.TestLogin.test_login3",
-    "uid" : "2a6be9942f90799e",
+    "uid" : "752d4ee5cb5f2529",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
+    "status" : "failed",
     "time" : {
-      "start" : 1557113284714,
-      "stop" : 1557113284715,
-      "duration" : 1
+      "start" : 1557129074516,
+      "stop" : 1557129074675,
+      "duration" : 159
     },
     "flaky" : false,
     "parameters" : [ ]
